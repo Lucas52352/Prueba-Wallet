@@ -36,3 +36,5 @@ export class Expense extends Model<Expense> {
   @Column
   updatedAt!: Date;
 }
+
+//commit test2
